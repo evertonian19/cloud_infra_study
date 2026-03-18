@@ -1,0 +1,10 @@
+{
+  "name": "Cahill",
+  "adr": "서울",
+  "foods": ["치킨", "피자"],
+  "isMan": true,
+  "body":{
+    "weight":75,
+    "height":174
+  }
+}

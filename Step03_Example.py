@@ -24,8 +24,3 @@ c = members[0]["num"] #dict의 num값
 d = members[2]["name"]
 
 print("clear")
-print("clear")
-print("clear")
-print("clear")
-print("clear")
-print("clear")
