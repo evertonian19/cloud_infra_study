@@ -21,6 +21,7 @@ name0 = names[0]
 
 # 맨 마지막 inex를 삭제하면서 값을 가져오기
 nums.pop()
+
 result = nums.pop()
 
 print("종료합니다")
