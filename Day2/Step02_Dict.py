@@ -1,6 +1,6 @@
 # dict type 에 대해서 알아보자!!
 
-'''
+''' 
 
   -dict type
   1. key:value 형태로 데이터를 저장
