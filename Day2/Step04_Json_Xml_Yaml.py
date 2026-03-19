@@ -1,4 +1,4 @@
-#Step04_Str2.py
+#Step04_Str2.py 
 
 
 #json , info는 str type이긴 한데 문자열이 특별한 형식을 띄고있다.
