@@ -4,7 +4,7 @@ text = "           Cloud Infra            "
 result1 = text.strip()
 
 
-#.으러 븐리하기
+#.으로 븐리하기
 myIp = "192.168.0.2"
 result2 = myIp.split(".")
 
