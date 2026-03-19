@@ -2,7 +2,7 @@
 # yaml 형식의 문자열 다루기
 
 # yaml 문자열을 대룰때는 외부 모듈을 pip 로 설치를 해서 import 를 해야한다.
-
+ 
 info = '''
 name: kevin mirallas
 addr: london
