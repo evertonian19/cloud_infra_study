@@ -1,5 +1,5 @@
 #공백 제거 Str
-
+ 
 text = "           Cloud Infra            "
 result1 = text.strip()
 
