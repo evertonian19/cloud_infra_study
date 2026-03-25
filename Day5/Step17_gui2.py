@@ -78,6 +78,3 @@ result_label2.pack(pady=15)
 #창이 닫힐 때 까지 무한대기
 input_value.bind("<Return>", clicked)
 root.mainloop()
- 
-
-
