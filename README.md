@@ -21,6 +21,7 @@ KT Cloud 인프라 엔지니어 과정을 준비하며 학습한 내용을 정�
 - [x] **06_python_basic**: 산술 연산(젯수/피젯수), Slice 활용 및 try-except 예외 처리
 - [x] **07_python_basic**: Binary Test 로직 및 Tkinter(tk) 기반 GUI 프로그래밍 기초
 - [x] **[x] 08_python_basic**: 정규표현식(Regex) 기반 데이터 필터링(re.search) 및 보안 마스킹(re.sub) 자동화
+- [x] **08_python_basic**: os.path.join 기반 OS 독립적 경로 합산 및 파일 시스템 경로 자동화
 
 ## 🔧 Git
 
