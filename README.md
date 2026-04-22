@@ -1,9 +1,3 @@
-# ☁️ Cloud Infra Study
-KT Cloud 인프라 엔지니어 과정을 준비하며 학습한 내용을 정리하는 저장소입니다.
-### -Start 2026-03-17
-### -End 2026-10-07
-
-
 ## 🛠 Environment
 - **OS:** Window 11 , macOS
 - **Language:** Python 3.12+
